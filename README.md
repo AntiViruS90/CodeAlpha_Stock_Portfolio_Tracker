@@ -69,3 +69,5 @@ stock_portfolio_tracker/
 - **UnicodeDecodeError**: Ensure `.env` is saved in UTF-8 without BOM.
 - **Database connection issues**: Verify PostgreSQL container is running and `DATABASE_URL` is correct.
 - **Missing dependencies**: Rebuild the Docker image with `docker-compose up --build`.
+
+P.S. You can view a video tutorial on how to use the app at this [link](https://drive.google.com/file/d/1EwfBDX-O0DkOLQLTTGbGWU4l3-CGZLFs/view?usp=sharing)
